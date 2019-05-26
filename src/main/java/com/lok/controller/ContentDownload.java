@@ -23,8 +23,12 @@ public class ContentDownload {
 	private static final String DOWNLOAD_FOLDER = "D:/srj bhai";
 	@Autowired
 	private DownloadService service;
+	private Int i=0;
 	public ContentDownload() {
 		System.out.println("Controller:0 param");
+		System.out.println("Controller:0 param");
+System.out.println("Controller:0 param");
+System.out.println("Controller:0 param");
 	}
 	
 	@RequestMapping("home.do")
