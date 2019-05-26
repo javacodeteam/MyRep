@@ -10,6 +10,9 @@ public class FileUploadCommand {
 	}
 	public void setFile1(MultipartFile file1) {
 		this.file1 = file1;
+		
+
+
 	}
 	public MultipartFile getFile2() {
 		return file2;
