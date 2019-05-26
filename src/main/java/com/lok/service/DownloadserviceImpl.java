@@ -26,6 +26,7 @@ public class DownloadserviceImpl implements DownloadService {
 				list.add(fname.getName());
 			}
 			System.out.println("service:"+list);
+			System.out.println("ldlkjfljlwfj")
 		}
 		return list;
 	}
